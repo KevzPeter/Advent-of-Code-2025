@@ -12,3 +12,5 @@
 |  4  | [Printing Department Part: 2](https://adventofcode.com/2025/day/4#part2) | [Link](./Dec_4/solution_2.py) |
 |  5  | [Cafeteria Part: 1](https://adventofcode.com/2025/day/5)                 | [Link](./Dec_5/solution_1.py) |
 |  5  | [Cafeteria Part: 2](https://adventofcode.com/2025/day/5#part2)           | [Link](./Dec_5/solution_2.py) |
+|  6  | [Trash Compactor Part: 1](https://adventofcode.com/2025/day/6)           | [Link](./Dec_6/solution_1.py) |
+|  6  | [Trash Compactor Part: 2](https://adventofcode.com/2025/day/6#part2)     | [Link](./Dec_6/solution_2.py) |
