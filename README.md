@@ -14,3 +14,7 @@
 |  5  | [Cafeteria Part: 2](https://adventofcode.com/2025/day/5#part2)           | [Link](./Dec_5/solution_2.py) |
 |  6  | [Trash Compactor Part: 1](https://adventofcode.com/2025/day/6)           | [Link](./Dec_6/solution_1.py) |
 |  6  | [Trash Compactor Part: 2](https://adventofcode.com/2025/day/6#part2)     | [Link](./Dec_6/solution_2.py) |
+|  7  | [Laboratories Part: 1](https://adventofcode.com/2025/day/7)              | [Link](./Dec_7/solution_1.py) |
+|  7  | [Laboratories Part: 2](https://adventofcode.com/2025/day/7#part2)        | [Link](./Dec_7/solution_2.py) |
+|  8  | [Playground Part: 1](https://adventofcode.com/2025/day/8)                | [Link](./Dec_8/solution_1.py) |
+|  8  | [Playground Part: 2](https://adventofcode.com/2025/day/8#part2)          | [Link](./Dec_8/solution_2.py) |
