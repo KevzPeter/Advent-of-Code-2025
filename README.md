@@ -1,5 +1,11 @@
 # ⭐ Advent of Code 2025 🎅🏻
 
+### Calendar
+
+<img src="./media/calendar.png"  height="400px" alt="Calendar">
+
+### Solutions
+
 | Day | Problem                                                                   | Solution                       |
 | :-: | :------------------------------------------------------------------------ | :----------------------------- |
 |  1  | [Secret Entrance - Part 1](https://adventofcode.com/2025/day/1)           | [Link](./Dec_1/solution1.js)   |
