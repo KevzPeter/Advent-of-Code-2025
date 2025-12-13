@@ -22,3 +22,5 @@
 |  9  | [Movie Theater Part: 2](https://adventofcode.com/2025/day/9#part2)       | [Link](./Dec_9/solution_2.py)  |
 | 10  | [Factory Part: 1](https://adventofcode.com/2025/day/10)                  | [Link](./Dec_10/solution_1.py) |
 | 10  | [Factory Part: 2](https://adventofcode.com/2025/day/10#part2)            | [Link](./Dec_10/solution_2.py) |
+| 11  | [Reactor Part: 1](https://adventofcode.com/2025/day/11)                  | [Link](./Dec_11/solution_1.py) |
+| 11  | [Reactor Part: 2](https://adventofcode.com/2025/day/11#part2)            | [Link](./Dec_11/solution_2.py) |
